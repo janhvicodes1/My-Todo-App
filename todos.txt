@@ -1,0 +1,4 @@
+cook 
+work
+clean
+add money
